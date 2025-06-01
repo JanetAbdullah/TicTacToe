@@ -15,4 +15,6 @@ public class Main {
         }
 
     }
+     // Neue Änderung für User Story 02
+
 }
