@@ -15,6 +15,6 @@ public class Main {
         }
 
     }
-    // Neue Änderung für User Story 02
+     // Neue Änderung für User Story 02
 
 }
