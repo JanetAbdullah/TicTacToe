@@ -13,8 +13,8 @@ public class Main {
             System.out.println("press x to exit, everything else to continue");
             input = sc.next();
         }
-
+        sc.close();  // Scanner hier schließen, wenn wir fertig sind
     }
-     // Neue Änderung für User Story 02
 
+    // Neue Änderung für User Story 02
 }
