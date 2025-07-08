@@ -16,5 +16,5 @@ public class Main {
         sc.close();  // Scanner hier schließen, wenn wir fertig sind
     }
 
-    // Neue Änderung für User Story 02
+   
 }
